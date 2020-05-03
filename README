@@ -1,5 +1,7 @@
 Ye Chen
 chenye@bu.edu
+EC535 Final Project
+
 Helpful Links:
 QT 4.8 documentation
 https://doc.qt.io/archives/qt-4.8/index.html
@@ -12,6 +14,10 @@ https://www.youtube.com/watch?v=8ntEQpg7gck
 
 stackoverflow.com
 for various aspects of QT I needed specific help for
+
+QT version 4.8
+Tested in QEMU (linux kernel)
+can probably(?) open this with QT Creator IDE
 
 Metlhedd:
 My game is called Metlhedd. It is inspired by a black mirror episode that used it as a prop for a fictional video game company called Tuckersoft. 
