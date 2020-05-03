@@ -1,0 +1,34 @@
+Ye Chen
+chenye@bu.edu
+Helpful Links:
+QT 4.8 documentation
+https://doc.qt.io/archives/qt-4.8/index.html
+
+QT step by step guide (QT5 but it works for the most part for 4.8)
+http://zetcode.com/gui/qt5/
+
+QT Youtube series, helpful for some aspects off game development (also not 4.8)
+https://www.youtube.com/watch?v=8ntEQpg7gck
+
+stackoverflow.com
+for various aspects of QT I needed specific help for
+
+Metlhedd:
+My game is called Metlhedd. It is inspired by a black mirror episode that used it as a prop for a fictional video game company called Tuckersoft. 
+
+You can run it by placing the metlhedd file (it's simple a file, no extension) into the root
+folder of the kernel. You will also need to place all the PNGs alongside it. 
+
+Once that is complete, you can run ./metlhedd -qws and it will appear in VNC-viewer. Gameplay is fairly simple. There is a menu at first, you can get past it by pressing spacebar. An instruction screen will appear for a short duration.
+
+The controls are as follows:
+(based on arrow keys)
+Press DOWN to dodge the drone
+Press UP to jump over the trap
+Press RIGHT to shoot the robot (the "metl hedds")
+
+Your character will infinitely run until defeated. Failure to deal with a threat will cost you one health point. Lose all three and it will be game over. 
+
+To restart the game, you must close it (ctrl+c) and rerun it with ./metlhedd -qws.
+
+
